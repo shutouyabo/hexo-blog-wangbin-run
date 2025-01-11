@@ -4,8 +4,7 @@ title: "About"
 date: 2016-04-21 04:48:33
 comments: true
 ---
-
-E-mail: onlythen@yeah.net
+E-mail: wb@wangbin.run
 Brief：Javascript/Rust
 常用网名：aircloud
 
