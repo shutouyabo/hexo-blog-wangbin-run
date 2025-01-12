@@ -6,11 +6,11 @@ comments: true
 ---
 E-mail: wb@wangbin.run
 
-|网站名称|网址|说明|
-|:-|:-:|-:| 
-|wiki知识库|wiki.wangbin.run|知识库|
-|Wiki2知识库|wiki2.wangbin.run|知识库|
-|Wiki3知识库|wiki3.wangbin.run|知识库|
+| 网站名称    |                    网址                    |   说明 |
+| :---------- | :-----------------------------------------: | -----: |
+| wiki知识库  |  [wiki.wangbin.run](https://wiki.wangbin.run)  | 知识库 |
+| Wiki2知识库 | [wiki2.wangbin.run](https://wiki2.wangbin.run) | 知识库 |
+| Wiki3知识库 | [wiki3.wangbin.run](https://wiki3.wangbin.run) | 知识库 |
 
 除了在本网站外，我还会在[知乎专栏](https://www.zhihu.com/column/aircloud)更新一些个人内容，两者之间内容不完全重合。另外出于一些保密性原因，笔者部分文章无法展示地非常细致，不过如果你遇到了类似的问题，欢迎通过邮箱和我取得进一步的联系。
 
