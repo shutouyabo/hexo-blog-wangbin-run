@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  hexoaircloudblog:
+    image: hexoaircloudblog
+    build:
+      context: .
+      dockerfile: ./Dockerfile
