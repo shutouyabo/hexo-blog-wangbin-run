@@ -2,9 +2,8 @@
 title: 入门WebAssembly以及使用其进行图像卷积处理
 date: 2019-02-16 19:15:51
 tags:
-    - WebAssembly
+    - 数码
 ---
-
 > WebAssembly 出现有很长时间了，但是由于日常工作并无直接接触，因此一直疏于尝试，最近终于利用一些业余时间简单入门了一下，因此在此总结。
 
 ### 简介
@@ -112,7 +111,7 @@ let memory = new WebAssembly.Memory({ initial: ((memSize + 0xffff) & ~0xffff) >>
 
 ![](http://niexiaotao.cn/img/ker1.jpg)
 
-传递给 WebAssembly 端的方式并不复杂，直接在 `WebAssembly.instantiate` 中声明即可。 
+传递给 WebAssembly 端的方式并不复杂，直接在 `WebAssembly.instantiate` 中声明即可。
 
 ```
 fetch(wasmPath)
@@ -124,7 +123,7 @@ fetch(wasmPath)
          },
          Math
      })).then(module => {})
-                
+            
 ```
 
 然后我们在 AssemblyScript 中就可以进行读写了：
