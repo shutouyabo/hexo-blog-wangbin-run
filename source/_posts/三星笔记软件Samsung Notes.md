@@ -14,7 +14,7 @@ tags:
 
 [https://github.com/kellwinr/galaxybook_mask/releases](https://github.com/kellwinr/galaxybook_mask/releases)
 
-![](/img/ruanjian/samsung notes/1.jpg)
+![](/img/ruanjian/samsung_notes/1.jpg)
 
 PS重点：上述3个文件，都下载，并挨个运行一遍。
 
