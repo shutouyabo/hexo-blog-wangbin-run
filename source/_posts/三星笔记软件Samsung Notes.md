@@ -22,7 +22,7 @@ PS重点：上述3个文件，都下载，并挨个运行一遍。
 
 （ **登录Samsung Notes是通过在Samsung Account软件中登录三星账号实现的** ，所以这两个软件都需要安装。 **登录之后在设置中设置同步开启** 。）
 
-![](/img/ruanjian/samsung notes/2.jpg)
+![](/img/ruanjian/samsung_notes/2.jpg)
 
 
 Samsung Notes和Samsung Account这个两个软件可以使用微软商店直接安装。
