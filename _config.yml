@@ -11,7 +11,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://hexo1.wangbin.run/
+url: http://blog2.wangbin.run/
 # url: http://localhost:4000/
 root: /
 permalink: :year/:month/:day/:title/
@@ -22,9 +22,9 @@ permalink_defaults:
 # Site settings
 # 网站综合内容设置：
 SEOTitle: 王彬的独立博客
-email: onlythen@yeah.net
+email: wb@wangbin.run
 description: "王彬的独立博客"
-keyword: "hexo,王彬,王彬的独立博客"
+keyword: "王彬,王彬的独立博客"
 
 # SNS settings
 # 一些社交平台地址，支持以下几种：
